@@ -14,7 +14,7 @@ load_dotenv()
   # main_placeholder.text(message)
   
 
-st.set_page_config(page_title="my_chatbot", page_icon="assets/favicon.ico")
+#st.set_page_config(page_title="my_chatbot", page_icon="assets/favicon.ico")
 
 
 token=os.getenv("API_KEY")
